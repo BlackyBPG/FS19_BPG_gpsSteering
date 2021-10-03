@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="46">
+	<author>Blacky_BPG</author>
+	<version>1.9.0.1</version>
+	<title>
+		<en>AA Test</en>
+		<de><![CDATA[AA Test]]></de>
+	</title>
+	<description>
+		<en><![CDATA[No steeringwheel rotation if GPS active]]></en>
+		<de><![CDATA[Keine Lenkradbewegung wenn GPS aktiv ist]]></de>
+	</description>
+	<iconFilename>bpglogo.png</iconFilename>
+	<multiplayer supported="true"/>
+	<extraSourceFiles>
+		<sourceFile filename="GPSsteering.lua" />
+	</extraSourceFiles>
+</modDesc>
